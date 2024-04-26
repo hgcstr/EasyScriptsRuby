@@ -1,4 +1,4 @@
-# Easy Sripts Ruby (old)
+# Easy Sripts Ruby (deprecated/not using it anymore)
 
 This repository contains scripts I create on my day-to-day basis to assist with testing or any other simple tasks.
 
